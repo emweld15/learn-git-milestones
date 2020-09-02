@@ -79,8 +79,8 @@ You should have a basic familiarity with the command line in case you need to do
   - [x] View your current directory and copy the full path: `pwd`
   - [x] Open this README file in Atom and paste that path here: **/Users/emilyweld1/Desktop/Davidson School/Davidson Fall 2020/DIG 245/learn-git-milestones
 (base) Emilys-MacBook-Pro-2:learn-git-milestones emilyweld1$ **
-- [ ] Use Git on the CLI
-  - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
+- [x] Use Git on the CLI
+  - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [ ] View the status of your repo: `git status`
   - [ ] View the changed files of your repo: `git diff`
   - [ ] Add all changed files to the staging area `git add .`
