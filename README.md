@@ -73,11 +73,12 @@ You should have a basic familiarity with the command line in case you need to do
 
 - [x] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
 - [x] Use the CLI to navigate directories  
-  - [ ] List files in this directory: `ls`
-  - [ ] List files in this directory, including hidden: `ls -la`  
-  - [ ] Confirm the existence of the `.git` directory (where Git versions and config are stored)
-  - [ ] View your current directory and copy the full path: `pwd`
-  - [ ] Open this README file in Atom and paste that path here: **??**
+  - [x] List files in this directory: `ls`
+  - [x] List files in this directory, including hidden: `ls -la`  
+  - [x] Confirm the existence of the `.git` directory (where Git versions and config are stored)
+  - [x] View your current directory and copy the full path: `pwd`
+  - [x] Open this README file in Atom and paste that path here: **/Users/emilyweld1/Desktop/Davidson School/Davidson Fall 2020/DIG 245/learn-git-milestones
+(base) Emilys-MacBook-Pro-2:learn-git-milestones emilyweld1$ **
 - [ ] Use Git on the CLI
   - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [ ] View the status of your repo: `git status`
