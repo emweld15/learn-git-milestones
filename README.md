@@ -140,7 +140,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
   - [x] Choose "Project site"
   - [x] Do not use a theme. Start from scratch
   - [x] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
-  - [x] Visit your project site at http://*username*.github.io/dig245-a1
+  - [x] Visit your project site at https://emweld15.github.io/learn-git-milestones/
   - [x] Paste this link into the appropriate Moodle forum
 
 
